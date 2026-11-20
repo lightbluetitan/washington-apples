@@ -1,5 +1,7 @@
 # Washington Apples: A Curated Dataset of Commercial Varieties, Flavor, Crispness, Skin Color, Harvest, and Origins
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24405374.svg)](https://doi.org/10.5281/zenodo.24405374)
+
 ## Description
 
 This **curated dataset** provides a structured and verified reference of **37 commercial apple varieties** marketed in Washington State (`WA_APP_001` to `WA_APP_037`), documenting their variety name, flavor profile, crispness level, skin color, harvest window, and geographic origin.

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Caceres Rossi"
+    given-names: "Renzo"
+    orcid: "https://orcid.org/0009-0005-0744-854X"
+title: "Washington Apples: A Curated Dataset of Commercial Varieties, Flavor, Crispness, Skin Color, Harvest, and Origins"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-20
+url: "https://github.com/lightbluetitan/washington-apples"
+repository-code: "https://github.com/lightbluetitan/washington-apples"
+abstract: "A curated dataset of 37 commercial apple varieties marketed in Washington State, documenting alphanumeric identifiers (apple_id), variety names (variety_name), flavor profiles (flavor_profile), crispness levels (crispness_level), skin color (skin_color), harvest window (harvest_window), and geographic origin (origin)."
+keywords:
+  - Washington apples
+  - apple varieties
+  - agriculture
+  - horticulture
+  - flavor profile
+  - crispness
+  - harvest window
+  - dataset
+license: CC-BY-4.0

@@ -1,0 +1,8 @@
+variable_name,data_type,description,example
+apple_id,Character,Alphanumeric identifier for each apple variety record (Format: WA_APP_001 to WA_APP_037).,WA_APP_001
+variety_name,Character,Official commercial or cultivar name of the Washington apple variety.,Ambrosia
+flavor_profile,Character,"Primary taste profile classification of the apple variety (Balanced Sweet-Tart, Sweet, or Tart).",Sweet
+crispness_level,Character,"Texture and crunchiness classification of the apple flesh (Crisp, Extremely Crisp, or Medium).",Crisp
+skin_color,Character,"Predominant exterior peel coloration of the apple variety (Bi-color Red/Yellow, Red, Yellow/Gold, or Green).",Bi-color Red/Yellow
+harvest_window,Character,"Typical seasonal harvesting period in Washington State (Early Season, Mid Season, Mid-to-Late Season, or Late Season).",Mid Season
+origin,Character,Geographic origin (state/country or country) where the apple variety was originally developed or discovered.,Canada
